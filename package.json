@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "color": "^1.0.3",
-    "react": "^15.4.2",
+    "react": "^15.7.0",
     "react-native": "^0.41.2",
     "react-native-form": "^2.1.2",
     "react-native-iconic-font": "0.0.6",
