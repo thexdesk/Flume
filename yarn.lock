@@ -2386,9 +2386,10 @@ react-native-linear-gradient@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/react-native-linear-gradient/-/react-native-linear-gradient-2.0.0.tgz#7442c00e1fcd9fca329119dcbaf744d12bcd1b5a"
 
-react-native-youtube@^0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/react-native-youtube/-/react-native-youtube-0.8.1.tgz#68d0be2ce3f2714ba681a9705e58dbcbf0d284e1"
+react-native-youtube@^0.8.2:
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/react-native-youtube/-/react-native-youtube-0.8.2.tgz#f9b68ff4bd14c92fa56ac07c68881bb07f7304ee"
+  integrity sha1-+baP9L0UyS+lasB8aIgbsH9zBO4=
 
 react-native@^0.41.2:
   version "0.41.2"
